@@ -4,7 +4,7 @@ import React from 'react'
 export default function App() {
   return (
     <View>
-      <Text>App Folder project</Text>
+      <Text>App Folder file</Text>
     </View>
   )
 }
