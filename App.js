@@ -4,7 +4,7 @@ import React from 'react'
 export default function App() {
   return (
     <View>
-      <Text>App home dummy</Text>
+      <Text>App home dummy111</Text>
     </View>
   )
 }
